@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "devdata": {
+      "type": "streamable-http",
+      "url": "https://mcp.devdata.lt"
+    }
+  }
+}

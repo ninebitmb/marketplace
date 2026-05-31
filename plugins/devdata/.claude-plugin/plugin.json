@@ -1,0 +1,11 @@
+{
+  "name": "devdata",
+  "displayName": "devdata.lt",
+  "version": "1.0.0",
+  "description": "Connect Claude to the devdata.lt MCP server for Lithuanian company data.",
+  "author": {
+    "name": "Ninebit"
+  },
+  "homepage": "https://devdata.lt/docs",
+  "mcpServers": "./.mcp.json"
+}

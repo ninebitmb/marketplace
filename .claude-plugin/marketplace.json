@@ -1,0 +1,14 @@
+{
+  "name": "ninebit-marketplace",
+  "owner": {
+    "name": "Ninebit"
+  },
+  "description": "Ninebit tools and integrations for Claude.",
+  "plugins": [
+    {
+      "name": "devdata",
+      "source": "./plugins/devdata",
+      "description": "devdata.lt — Lithuanian open-data hub. Query company data: VAT, Sodra, JAR registry, financials, public contracts, insolvency, vehicles and more, via the devdata MCP server."
+    }
+  ]
+}
